@@ -1,0 +1,27 @@
+# LLM & RAG
+google-adk
+google-generativeai
+groq
+
+# Embedding
+ollama
+
+# Vector Database
+pymongo
+
+# PDF Parsing
+pdfplumber
+
+# Data Processing
+pandas
+
+# Environment & Config
+python-dotenv
+pyyaml
+
+# Streamlit
+streamlit
+
+# Jupyter
+ipykernel
+notebook

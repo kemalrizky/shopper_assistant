@@ -1,0 +1,873 @@
+[
+  {
+    "topic": "Tokoku Overview",
+    "information": "Tokoku is a trusted e-commerce platform connecting millions of buyers and sellers across Indonesia. Founded in 2018 and headquartered in Jakarta, Tokoku provides a safe, convenient, and affordable online shopping ecosystem for all segments of the Indonesian population.",
+    "category": "Policy",
+    "tags": [
+      "Tokoku",
+      "E-commerce",
+      "Indonesia"
+    ],
+    "section": "1. Platform Overview",
+    "subsection": "General",
+    "page_number": 3,
+    "source_file": "..\\data\\Tokoku_Customer_Service_Manual.pdf"
+  },
+  {
+    "topic": "Company Vision and Mission",
+    "information": "Our company's vision is to become Indonesia's number one e-commerce platform of choice. Our mission is to broaden access to the digital economy for all Indonesians through inclusive, innovative, and trustworthy technology.",
+    "category": "Policy",
+    "tags": [
+      "Company Information",
+      "Vision and Mission"
+    ],
+    "section": "1. Platform Overview",
+    "subsection": "1.1 Vision & Mission",
+    "page_number": 3,
+    "source_file": "..\\data\\Tokoku_Customer_Service_Manual.pdf"
+  },
+  {
+    "topic": "Core Services Overview",
+    "information": "Tokoku offers various core services, including the Tokoku Marketplace, which allows users to buy and sell products from millions of verified sellers 24/7. Additionally, Tokoku provides Tokoku Pay, a digital wallet for seamless transactions also available 24/7. Tokoku Express offers same-day and next-day delivery services in major cities, while Tokoku Mall features official brand stores with authenticity guarantee available 24/7 in Jabodetabek and Surabaya. Furthermore, Tokoku Now provides daily essentials delivered in under 2 hours in Jabodetabek and Surabaya. The Tokoku Affiliate program is available nationwide for content creators and influencers.",
+    "category": "Policy",
+    "tags": [
+      "Tokoku",
+      "Services",
+      "Availability"
+    ],
+    "section": "1. Platform Overview",
+    "subsection": "1.2 Core Services",
+    "page_number": 3,
+    "source_file": "..\\data\\Tokoku_Customer_Service_Manual.pdf"
+  },
+  {
+    "topic": "Platform Statistics 2025",
+    "information": "Our platform has achieved significant milestones in 2025, with 85 million registered users and 12 million active sellers operating 500 million+ SKUs. This growth has led to a high volume of transactions, with over 5 million daily transactions taking place. We serve 514 districts/cities across Indonesia, and our app has received a rating of 4.8/5.0 on both Google Play and the App Store.",
+    "category": "Policy",
+    "tags": [
+      "statistics",
+      "growth",
+      "platform"
+    ],
+    "section": "1. Platform Overview",
+    "subsection": "1.3 Platform Statistics (2025)",
+    "page_number": 3,
+    "source_file": "..\\data\\Tokoku_Customer_Service_Manual.pdf"
+  },
+  {
+    "topic": "Registering a Tokoku Account",
+    "information": "Registration can be done through the Tokoku mobile app (Android/iOS) or at www.tokoku.co.id. To register, download the Tokoku app from Google Play Store or Apple App Store, or visit www.tokoku.co.id. Click Register on the main page, then enter your active mobile number and click Send OTP. Enter the 6-digit OTP code sent via SMS. Next, complete your profile by entering your full name, email address, and creating a password with a minimum of 8 alphanumeric characters. Read and agree to Tokoku's Terms & Conditions and Privacy Policy. Once completed, your account is ready, and you will receive a welcome voucher worth IDR 25,000.",
+    "category": "Policy",
+    "tags": [
+      "Registration",
+      "Account Creation",
+      "Tokoku App"
+    ],
+    "section": "2. Getting Started – Account & Registration",
+    "subsection": "2.1 How to Register a Tokoku Account",
+    "page_number": 5,
+    "source_file": "..\\data\\Tokoku_Customer_Service_Manual.pdf"
+  },
+  {
+    "topic": "Account Verification Tiers",
+    "information": "Tokoku has three verification tiers to ensure transaction security. The tiers are: Basic (default), Premium, and the requirements and benefits for each tier are as follows: Basic requires a verified mobile number, allowing shops to process up to IDR 5,000,000/day and up to IDR 20,000,000/day with a verified National ID (KTP) and selfie, which also activates Tokoku Pay and provides unlimited transactions and access. Premium requires a verified KTP, selfie, and Tax ID (NPWP), granting seller premium features.",
+    "category": "Policy",
+    "tags": [
+      "account verification",
+      "transaction security",
+      "Tokoku"
+    ],
+    "section": "2. Getting Started – Account & Registration",
+    "subsection": "2.2 Account Verification",
+    "page_number": 5,
+    "source_file": "..\\data\\Tokoku_Customer_Service_Manual.pdf"
+  },
+  {
+    "topic": "Profile and Security Settings",
+    "information": "To manage your account, you can change your display name and profile photo at any time by going to Profile > Edit Profile. Additionally, you can protect every payment by activating a 6-digit Transaction PIN. For enhanced security, enable two-factor authentication (2FA) by navigating to Settings > Security > Two-Factor Authentication. You can also register your fingerprint or Face ID for faster login. Furthermore, you can add up to 5 default delivery addresses for convenience.",
+    "category": "Policy",
+    "tags": [
+      "account settings",
+      "security",
+      "profile"
+    ],
+    "section": "2. Getting Started – Account & Registration",
+    "subsection": "2.3 Profile & Security Settings",
+    "page_number": 5,
+    "source_file": "..\\data\\Tokoku_Customer_Service_Manual.pdf"
+  },
+  {
+    "topic": "Finding Products on Tokoku",
+    "information": "To find what you need on Tokoku, you can use several methods. You can start by typing a product name, brand, or category in the search field. Alternatively, you can filter products by price range, seller location, store rating, and stock availability. You can also browse through 30+ product categories from the Categories page. For officially guaranteed products from top brands, visit the Tokoku Mall. Additionally, keep an eye out for Flash Sales, which offer time-limited deals with discounts up to 90% available daily at 10:00, 14:00, and 20:00 WIB.",
+    "category": "Policy",
+    "tags": [
+      "Shopping",
+      "Product Search",
+      "Tokoku Mall"
+    ],
+    "section": "3. Buyer Guide – How to Shop on Tokoku",
+    "subsection": "3.1 Finding Products",
+    "page_number": 6,
+    "source_file": "..\\data\\Tokoku_Customer_Service_Manual.pdf"
+  },
+  {
+    "topic": "Identifying Trusted Products & Stores",
+    "information": "When shopping on Tokoku, look for certain indicators to ensure you're purchasing from a trusted store. These indicators include the presence of a Star Seller, Official Store, or Tokoku Store Badge, which indicates that the store has met Tokoku's standards. Additionally, choose stores with a high store rating, which is based on a 1–5 star scale and calculated from buyer reviews. A minimum store rating of 4.5 stars is recommended. Furthermore, check the seller's responsiveness by looking at their chat response rate, which should be at least 90%. You can also evaluate the store's performance by looking at the total number of successful transactions for a specific product, with higher numbers indicating better performance. Finally, read recent product reviews from previous buyers, which often include unboxing photos and videos, to get a better understanding of the product and the seller's reliability.",
+    "category": "Policy",
+    "tags": [
+      "Tokoku",
+      "Shopping",
+      "Trusted Stores"
+    ],
+    "section": "3. Buyer Guide – How to Shop on Tokoku",
+    "subsection": "3.2 Identifying Trusted Products & Stores",
+    "page_number": 6,
+    "source_file": "..\\data\\Tokoku_Customer_Service_Manual.pdf"
+  },
+  {
+    "topic": "Tokoku Purchase Process",
+    "information": "To purchase a product on Tokoku, select a product and choose your variant, then click Buy Now or Add to Cart. Next, review your cart and click Checkout. Confirm your delivery address by adding or selecting a saved address. Choose a courier based on your needs, such as speed, price, or insurance. Select a payment method, apply any available vouchers or Tokoku Coins, and review your order summary. Click Pay Now to proceed, then complete the payment following the instructions for your chosen method. Once payment is complete, your order will be confirmed, and a notification will be sent via the app and SMS.",
+    "category": "Policy",
+    "tags": [
+      "Tokoku",
+      "Purchase",
+      "Payment"
+    ],
+    "section": "3. Buyer Guide – How to Shop on Tokoku",
+    "subsection": "3.3 Purchase Process (Step-by-Step)",
+    "page_number": 6,
+    "source_file": "..\\data\\Tokoku_Customer_Service_Manual.pdf"
+  },
+  {
+    "topic": "Tracking Your Order on Tokoku",
+    "information": "To track your order on Tokoku, go to My Orders > In Delivery and click Track Order to view your package's real-time location. Automatic notifications are sent at every change in delivery status. If your package has not arrived within the estimated timeframe, use the File Complaint feature on the order page.",
+    "category": "Troubleshooting",
+    "tags": [
+      "Order Tracking",
+      "Delivery Status",
+      "Missing Package"
+    ],
+    "section": "3. Buyer Guide – How to Shop on Tokoku",
+    "subsection": "3.4 Tracking Your Order",
+    "page_number": 7,
+    "source_file": "..\\data\\Tokoku_Customer_Service_Manual.pdf"
+  },
+  {
+    "topic": "Confirming Receipt of Goods",
+    "information": "Buyers must confirm receipt of their package within 2 business days after receiving it. If no confirmation is made, the system will automatically confirm and release funds to the seller 3 business days after the status shows 'Delivered'. After confirming receipt, buyers are encouraged to leave a product review and store rating to help other buyers.",
+    "category": "Policy",
+    "tags": [
+      "Tokoku",
+      "Receipt Confirmation",
+      "Buyer Guidelines"
+    ],
+    "section": "3. Buyer Guide – How to Shop on Tokoku",
+    "subsection": "3.5 Confirming Receipt of Goods",
+    "page_number": 7,
+    "source_file": "..\\data\\Tokoku_Customer_Service_Manual.pdf"
+  },
+  {
+    "topic": "Opening a Store on Tokoku",
+    "information": "To open a store on Tokoku, log in to your Tokoku account and click Open a Store in the profile menu. Next, enter your store name, which must be unique and no longer than 30 characters, along with a store description and your main product category. You will also need to upload a store logo and banner, with recommended dimensions of 200x200px and 1200x400px respectively. Additionally, set your store or warehouse location as the basis for shipping cost calculations. Finally, link a bank account to receive sales payouts, and your store will be ready to go.",
+    "category": "Policy",
+    "tags": [
+      "Tokoku",
+      "Store Setup",
+      "Seller Guide"
+    ],
+    "section": "4. Seller Guide – How to Sell on Tokoku",
+    "subsection": "4.1 Opening a Store on Tokoku",
+    "page_number": 8,
+    "source_file": "..\\data\\Tokoku_Customer_Service_Manual.pdf"
+  },
+  {
+    "topic": "Product Listing Guidelines",
+    "information": "A well-crafted product listing significantly improves conversion rates. To create an effective product listing, follow these guidelines: the product title must be included and should not exceed 255 characters, including the brand, type, and variant. Additionally, at least three product photos are required, with a minimum resolution of 800x800px and a white background. The product description must be comprehensive, including specifications, materials, usage, and warranty. The base price is required, and if discounted, a strikethrough price must also be included. Accurate stock counts for each product variant are necessary, as well as weight and dimensions for accurate shipping cost calculation. Product videos are optional but can significantly boost conversion rates, and are required for food, medicine, and cosmetic products. Certifications or BPOM are also optional but may be required for certain products.",
+    "category": "Policy",
+    "tags": [
+      "Product Listing",
+      "Tokoku",
+      "Seller Guide"
+    ],
+    "section": "4. Seller Guide – How to Sell on Tokoku",
+    "subsection": "4.2 Adding Products",
+    "page_number": 8,
+    "source_file": "..\\data\\Tokoku_Customer_Service_Manual.pdf"
+  },
+  {
+    "topic": "Processing Orders",
+    "information": "When receiving an incoming order notification via the app and email, confirm the order within 1x24 hours to avoid automatic cancellation. To process the order, prepare the item and pack it securely. Next, print the shipping label from the app by navigating to My Orders > Processing > Print Label. Once the label is printed, drop off the item at a courier agent or wait for pick-up if the pick-up service is enabled. If pick-up is not automatically detected, manually input the tracking number.",
+    "category": "Policy",
+    "tags": [
+      "Order Processing",
+      "Shipping",
+      "Tokoku"
+    ],
+    "section": "4. Seller Guide – How to Sell on Tokoku",
+    "subsection": "4.3 Processing Orders",
+    "page_number": 8,
+    "source_file": "..\\data\\Tokoku_Customer_Service_Manual.pdf"
+  },
+  {
+    "topic": "Seller Tiers & Benefits",
+    "information": "Tokoku has a tier system for sellers, with benefits varying based on performance. New stores with fewer than 100 transactions have standard marketplace access. Regular sellers with more than 100 transactions, a rating above 4.5, and a Star Seller badge receive priority in search results, Flash Sale access, and a dedicated account manager. Additionally, they have a lower commission rate and exclusive campaign access. Power Sellers with over 1,000 transactions per month and consistent performance receive an official badge, premium store access, and a verified brand with an active business license. This also includes an official Store page and product authenticity guarantee.",
+    "category": "Policy",
+    "tags": [
+      "seller",
+      "tier",
+      "benefits",
+      "Tokoku"
+    ],
+    "section": "4. Seller Guide – How to Sell on Tokoku",
+    "subsection": "4.4 Seller Tiers & Benefits",
+    "page_number": 9,
+    "source_file": "..\\data\\Tokoku_Customer_Service_Manual.pdf"
+  },
+  {
+    "topic": "Payout & Withdrawal",
+    "information": "Funds become available in your Tokoku Pay balance after the buyer confirms receipt of goods. You can withdraw funds via bank transfer, with a minimum withdrawal amount of IDR 10,000 and a processing time of 1–3 business days. Power Sellers can use Instant Withdrawal up to IDR 50,000,000 per day, and there is no withdrawal admin fee for them. For other users, a withdrawal admin fee of IDR 2,500 per withdrawal applies.",
+    "category": "Policy",
+    "tags": [
+      "payout",
+      "withdrawal",
+      "seller guide"
+    ],
+    "section": "4. Seller Guide – How to Sell on Tokoku",
+    "subsection": "4.5 Payout & Withdrawal",
+    "page_number": 9,
+    "source_file": "..\\data\\Tokoku_Customer_Service_Manual.pdf"
+  },
+  {
+    "topic": "Available Payment Methods",
+    "information": "Tokoku offers various payment methods, including Tokoku Pay (Balance) with a daily transaction limit of IDR 10,000,000. Other available payment methods include Bank Transfer, Virtual Account, Credit/Debit Card, QRIS, GoPay, OVO, Dana, Alfamart/Indomaret, and Cash on Delivery. Bank Transfer and Virtual Account have per-bank limits, while Credit/Debit Card has a minimum transaction limit of IDR 50,000. QRIS has a transaction limit of IDR 10,000,000, and GoPay, OVO, and Dana have daily limits of IDR 10,000,000. Alfamart/Indomaret has a transaction limit of IDR 5,000,000, and Cash on Delivery is available in selected areas with a maximum order limit of IDR 2,000,000. Additionally, Tokoku PayLater offers 0% installment options with a minimum payment of IDR 500,000 and a credit limit up to IDR 20,000,000.",
+    "category": "Policy",
+    "tags": [
+      "Payment",
+      "Methods",
+      "Tokoku"
+    ],
+    "section": "5. Payment Methods & Tokoku Pay",
+    "subsection": "5.1 Available Payment Methods",
+    "page_number": 10,
+    "source_file": "..\\data\\Tokoku_Customer_Service_Manual.pdf"
+  },
+  {
+    "topic": "Tokoku Pay Overview",
+    "information": "Tokoku Pay is Tokoku's official digital wallet integrated into the platform ecosystem. To activate Tokoku Pay, a national ID (KTP) verification is required. Users can top up their balance via bank transfer, QRIS, credit card, or convenience store, with a balance limit of IDR 10,000,000 for Basic users and IDR 20,000,000 for Premium Verified users. Users can send money to other Tokoku Pay users for free. Tokoku Pay also supports bill payments for various services, including electricity (PLN), water (PDAM), BPJS health insurance, vehicle tax, internet, mobile credit, and data packages. Additionally, users earn Tokoku Coins worth 0.5% of the transaction value for every payment made via Tokoku Pay. Furthermore, every transaction via Tokoku Pay is covered by fraud insurance up to IDR 5,000,000.",
+    "category": "Policy",
+    "tags": [
+      "payment",
+      "wallet",
+      "Tokoku Pay"
+    ],
+    "section": "5. Payment Methods & Tokoku Pay",
+    "subsection": "5.2 Tokoku Pay – Full Feature Overview",
+    "page_number": 10,
+    "source_file": "..\\data\\Tokoku_Customer_Service_Manual.pdf"
+  },
+  {
+    "topic": "Tokoku PayLater Details",
+    "information": "Tokoku PayLater is a card-free digital credit facility that allows buyers to shop now and pay later. The interest rate varies depending on the tenor: 0% for a 1-month tenor, and 1.5% per month for tenors ranging from 3 to 12 months. The starting limit for Tokoku PayLater is IDR 500,000 to IDR 5,000,000, based on the buyer's credit score, while the maximum limit is IDR 20,000,000 after a strong payment history. To be eligible for Tokoku PayLater, a buyer must be an Indonesian citizen, aged 21 to 65, and have completed KTP and selfie verification. A late payment fee of IDR 5,000 per day plus 2% of the overdue balance will be charged. The billing date for Tokoku PayLater is the 25th of every month.",
+    "category": "Policy",
+    "tags": [
+      "Payment",
+      "Credit",
+      "Tokoku PayLater"
+    ],
+    "section": "5. Payment Methods & Tokoku Pay",
+    "subsection": "5.3 Tokoku PayLater",
+    "page_number": 11,
+    "source_file": "..\\data\\Tokoku_Customer_Service_Manual.pdf"
+  },
+  {
+    "topic": "Tokoku Courier Partners",
+    "information": "Tokoku Courier Partners offer various shipping services with estimated delivery times. JNE REG and OKE take 1–5 business days, while J&T Express EZ takes 1–4 business days. REG and HALU services are available for same-day delivery in Jabodetabek. SiCepat Same-day service also offers same-day delivery in Jabodetabek. AnterAja Standard takes 1–3 business days, Pos Indonesia Regular, Express, and Special Express take 2–7 business days, SAP Express Regular and Express take 1–5 business days. Tokoku Express offers same-day and next-day delivery in major cities, while GoSend (Instant) provides same-day delivery within the city in 2–4 hours. Gojek Instant offers instant delivery within the city under 2 hours.",
+    "category": "Policy",
+    "tags": [
+      "shipping",
+      "delivery",
+      "courier",
+      "partners"
+    ],
+    "section": "6. Shipping & Delivery",
+    "subsection": "6.1 Tokoku Courier Partners",
+    "page_number": 12,
+    "source_file": "..\\data\\Tokoku_Customer_Service_Manual.pdf"
+  },
+  {
+    "topic": "Special Delivery Services",
+    "information": "Tokoku Express Same-Day is available for orders placed before 11:00 AM WIB and delivered on the same day in Jakarta, Surabaya, Bandung, Medan, and Makassar. Free Shipping is available for Tokoku Plus subscribers and through regular free-shipping promotions, with minimum purchase requirements ranging from IDR 0 to IDR 90,000 depending on the promo. Shipping Insurance is mandatory for electronics, jewelry, and fragile items, costing 0.2% of the item value, with a minimum of IDR 3,000. Nationwide Delivery is available across all 514 districts/cities, including remote areas via Pos Indonesia.",
+    "category": "Policy",
+    "tags": [
+      "shipping",
+      "delivery",
+      "policy"
+    ],
+    "section": "6. Shipping & Delivery",
+    "subsection": "6.2 Special Delivery Services",
+    "page_number": 12,
+    "source_file": "..\\data\\Tokoku_Customer_Service_Manual.pdf"
+  },
+  {
+    "topic": "Delivery Status Descriptions",
+    "information": "When tracking the status of a delivery, the following descriptions are used: Awaiting Seller Confirmation indicates that a new order has been received but the seller has not yet confirmed it. Processing means the seller is preparing the item for shipment. Shipped signifies that the item has been dropped off at the courier or pick-up has been completed. In Transit indicates that the package is on its way to the destination. Arrived at Destination Hub means the package has reached the destination city. Out for Delivery signifies that the courier is on the way to the buyer's address. Delivered indicates that the package has been handed to the recipient. Delivery Failed occurs when the address is not found or the recipient is unavailable.",
+    "category": "Policy",
+    "tags": [
+      "shipping",
+      "delivery",
+      "tracking"
+    ],
+    "section": "6. Shipping & Delivery",
+    "subsection": "6.3 Delivery Status Descriptions",
+    "page_number": 12,
+    "source_file": "..\\data\\Tokoku_Customer_Service_Manual.pdf"
+  },
+  {
+    "topic": "COD Terms",
+    "information": "COD (Cash on Delivery) is only available in areas served by Tokoku's COD courier partners. The maximum COD transaction value per order is IDR 2,000,000. When receiving a COD order, buyers should prepare exact change as couriers may not always have change available. Before paying, buyers may inspect the packaging condition. If the packaging is severely damaged, buyers may refuse receipt and report it. However, refusing COD without a valid reason more than 3 times within 30 days may result in the COD feature being deactivated on the buyer's account.",
+    "category": "Policy",
+    "tags": [
+      "COD",
+      "Cash on Delivery",
+      "Shipping",
+      "Delivery"
+    ],
+    "section": "6. Shipping & Delivery",
+    "subsection": "6.4 COD (Cash on Delivery) Terms",
+    "page_number": 13,
+    "source_file": "..\\data\\Tokoku_Customer_Service_Manual.pdf"
+  },
+  {
+    "topic": "Return Policy",
+    "information": "Tokoku provides buyer protection through a fair and transparent return policy. The return policy has several conditions and exceptions. Items that do not match the description, are damaged or have a manufacturing defect, are incomplete, or were shipped with the wrong item are returnable within 7 days of confirmed receipt. Non-original products can be returned if the seller agrees, but items that are not returnable include digital products and vouchers once they have been used or activated. Additionally, a money-back guarantee is provided with no time limit for non-original products.",
+    "category": "Policy",
+    "tags": [
+      "returns",
+      "refunds",
+      "disputes"
+    ],
+    "section": "7. Returns, Refunds & Disputes",
+    "subsection": "7.1 Return Policy",
+    "page_number": 14,
+    "source_file": "..\\data\\Tokoku_Customer_Service_Manual.pdf"
+  },
+  {
+    "topic": "Filing a Return/Complaint",
+    "information": "To file a return or complaint, go to My Orders and select the problematic order. Click File a Complaint and select the reason for your complaint. You will then be required to attach evidence, including up to 5 photos and 1 video up to 30 seconds, to support your claim. Next, write a clear and detailed description of the problem. After that, select your preferred resolution from the options of Refund Only, Exchange, or Both. Once you have completed these steps, submit your complaint. The seller has 2 times 24 hours to respond to your complaint. If the seller does not respond or no agreement is reached, Tokoku CS will mediate the issue.",
+    "category": "Policy",
+    "tags": [
+      "Returns",
+      "Refunds",
+      "Disputes"
+    ],
+    "section": "7. Returns, Refunds & Disputes",
+    "subsection": "7.2 How to File a Return / Complaint",
+    "page_number": 14,
+    "source_file": "..\\data\\Tokoku_Customer_Service_Manual.pdf"
+  },
+  {
+    "topic": "Refund Process",
+    "information": "When a refund is processed, the payment method used for the original transaction determines where the refund will be sent and how long it will take. For Tokoku Pay, refunds are sent to the Tokoku Pay balance instantly or within 1x24 hours. Bank Transfer and VA refunds are sent to the original bank account within 3-7 business days. Credit and Debit Card refunds are sent to the original card, with the limit being restored, within 7-14 business days. GoPay, OVO, and Dana refunds are sent to the original digital wallet within 1-3 business days. COD refunds are sent to the registered bank account within 3-5 business days. Tokoku PayLater refunds result in a bill reduction or cancellation within 1-2 business days.",
+    "category": "Policy",
+    "tags": [
+      "Refund",
+      "Payment Method",
+      "Refund Timeframe"
+    ],
+    "section": "7. Returns, Refunds & Disputes",
+    "subsection": "7.3 Refund Process",
+    "page_number": 14,
+    "source_file": "..\\data\\Tokoku_Customer_Service_Manual.pdf"
+  },
+  {
+    "topic": "Tokoku Buyer Protection",
+    "information": "Tokoku Buyer Protection holds buyer payments in escrow until the buyer confirms receipt of goods. If items do not arrive within 2 times the estimated delivery time, buyers are entitled to an automatic refund. Additionally, Tokoku offers an Authenticity Guarantee for all Tokoku Mall products, guaranteeing they are genuine. If a product is proven counterfeit, buyers receive a refund of 2 times the purchase value.",
+    "category": "Policy",
+    "tags": [
+      "returns",
+      "refunds",
+      "disputes",
+      "buyer protection"
+    ],
+    "section": "7. Returns, Refunds & Disputes",
+    "subsection": "7.4 Tokoku Buyer Protection",
+    "page_number": 15,
+    "source_file": "..\\data\\Tokoku_Customer_Service_Manual.pdf"
+  },
+  {
+    "topic": "Voucher & Discount Types",
+    "information": "There are several voucher and discount types available on the platform. Store Vouchers are issued by sellers and are valid for purchases at that specific store only. Tokoku Vouchers, on the other hand, are issued by Tokoku and are valid for all transactions on the platform. Additionally, there are Free Shipping Vouchers that reduce shipping cost by up to IDR 30,000 and return a percentage of the transaction value to Tokoku Pay. Cashback Vouchers are also available, although their details are not specified. Furthermore, there are Flash Sale Vouchers that are only valid during active Flash Sale periods, and Birthday Vouchers that are automatically sent to users in their birthday month.",
+    "category": "Policy",
+    "tags": [
+      "policy",
+      "voucher",
+      "discount"
+    ],
+    "section": "8. Promotions, Vouchers & Tokoku Coins",
+    "subsection": "8.1 Voucher & Discount Types",
+    "page_number": 16,
+    "source_file": "..\\data\\Tokoku_Customer_Service_Manual.pdf"
+  },
+  {
+    "topic": "Tokoku Coins",
+    "information": "Tokoku Coins are reward points that can be redeemed as a price discount on purchases. Each Tokoku Coin is equivalent to IDR 1 discount. You can earn Coins by shopping with Tokoku Pay, which rewards you with +0.5% of your purchase, writing product reviews, which rewards you with +5 Coins, daily login, which rewards you with +1 Coin, and referring a new account, which rewards you with +50 Coins. The earned Coins can be used for a maximum of 30% of the transaction value per purchase. Additionally, Coins are valid for 1 year from the date of acquisition.",
+    "category": "Policy",
+    "tags": [
+      "Promotions",
+      "Vouchers",
+      "Rewards"
+    ],
+    "section": "8. Promotions, Vouchers & Tokoku Coins",
+    "subsection": "8.2 Tokoku Coins",
+    "page_number": 16,
+    "source_file": "..\\data\\Tokoku_Customer_Service_Manual.pdf"
+  },
+  {
+    "topic": "Tokoku Plus Subscription Program",
+    "information": "The Tokoku Plus subscription program offers several benefits to its members. The subscription price is IDR 19,000/month or IDR 149,000/year. Members enjoy free shipping with no minimum purchase required, and they can receive free shipping up to 30 times per month. Additionally, Tokoku Plus members receive an extra 1% cashback on all transactions. They also get early access to flash sales, 15 minutes before regular users. Furthermore, Tokoku Plus members earn 2x Coins compared to regular users. They also receive priority customer service, with a response time of 1 hour, compared to 24 hours for regular users.",
+    "category": "Policy",
+    "tags": [
+      "Tokoku Plus",
+      "Subscription",
+      "Benefits"
+    ],
+    "section": "8. Promotions, Vouchers & Tokoku Coins",
+    "subsection": "8.3 Tokoku Plus (Subscription Program)",
+    "page_number": 16,
+    "source_file": "..\\data\\Tokoku_Customer_Service_Manual.pdf"
+  },
+  {
+    "topic": "Account Security Tips",
+    "information": "To maintain account safety and security, never share your OTP code, Transaction PIN, or password with anyone, including those claiming to be Tokoku CS agents. Additionally, enable 2FA (Two-Factor Authentication) by navigating to Settings > Security. It is also recommended to update your password regularly, at least every 3 months. Be cautious of phishing links and only use the official Tokoku URL, which is www.tokoku.co.id. If you are logged in from an unrecognized device, immediately log out via Settings > Active Devices.",
+    "category": "Policy",
+    "tags": [
+      "Security",
+      "Policy",
+      "Account"
+    ],
+    "section": "9. Account Safety & Security",
+    "subsection": "9.1 Account Security Tips",
+    "page_number": 17,
+    "source_file": "..\\data\\Tokoku_Customer_Service_Manual.pdf"
+  },
+  {
+    "topic": "Suspicious Activity & Account Suspension",
+    "information": "If you detect suspicious activity on your account, you should immediately change your password via the Forgot Password option. Next, contact Tokoku CS at 1500-888 or via in-app Live Chat. The customer service team will verify your identity and temporarily block your account if necessary. Additionally, you should report any financial losses to CS to begin an investigation and insurance claim process.",
+    "category": "Policy",
+    "tags": [
+      "Account Safety",
+      "Security",
+      "Suspicious Activity"
+    ],
+    "section": "9. Account Safety & Security",
+    "subsection": "9.2 Suspicious Activity & Account Suspension",
+    "page_number": 17,
+    "source_file": "..\\data\\Tokoku_Customer_Service_Manual.pdf"
+  },
+  {
+    "topic": "Reporting Problematic Sellers/Buyers",
+    "information": "To report a store or product, click the Report button on the store or product page. You can report categories such as counterfeit product, fraud, prohibited product, fake reviews, or inappropriate content. Tokoku's Trust & Safety team will follow up on all reports within 3 times 24 hours.",
+    "category": "Policy",
+    "tags": [
+      "Reporting",
+      "Problematic Sellers/Buyers",
+      "Account Safety & Security"
+    ],
+    "section": "9. Account Safety & Security",
+    "subsection": "9.3 Reporting Problematic Sellers / Buyers",
+    "page_number": 17,
+    "source_file": "..\\data\\Tokoku_Customer_Service_Manual.pdf"
+  },
+  {
+    "topic": "Contacting Tokoku Customer Service",
+    "information": "To contact Tokoku Customer Service, you can use various channels. The live chat is available through the app or website by navigating to Help > Live Chat, and it operates 24/7. You can also call the toll-free number 1500-888 from 07:00–22:00 WIB daily. Additionally, you can send an email to cs@tokoku.co.id, use the WhatsApp Business number +62 811-0888-8888 from 08:00–20:00 WIB daily, or visit the Tokoku Help Center at help.tokoku.co.id, which is available 24/7. For social media, you can reach out to @TokokuCare on Twitter or Instagram, and expect a response within 4 business hours. If you prefer to visit in person, the Tokoku Tower is located at Jl. Gatot Subroto No. 99, South Jakarta, and the head office is open from Mon–Fri 09:00–17:00 WIB. Please note that phone calls will be replied to within 1x24 business hours.",
+    "category": "Contact",
+    "tags": [
+      "contact",
+      "customer service",
+      "Tokoku"
+    ],
+    "section": "10. Customer Service Channels & SLA",
+    "subsection": "10.1 How to Contact Tokoku CS",
+    "page_number": 18,
+    "source_file": "..\\data\\Tokoku_Customer_Service_Manual.pdf"
+  },
+  {
+    "topic": "Service Level Agreement (SLA)",
+    "information": "Our Service Level Agreement (SLA) outlines the expected response and resolution times for various customer service requests. For general inquiries submitted through Live Chat, we aim to provide a first response within 2 minutes. For order complaints or disputes, we resolve the issue within 3 business days. Refund claims are processed within 3-7 business days. In cases of fraud investigation, we provide an initial response within 24 hours. For emergency account deactivation, we take action within 1 hour. Seller complaints or escalations are handled within 2 business days. Tokoku Plus customers can expect a response to all tickets within 1 hour.",
+    "category": "Policy",
+    "tags": [
+      "SLA",
+      "Customer Service",
+      "Response Times"
+    ],
+    "section": "10. Customer Service Channels & SLA",
+    "subsection": "10.2 Service Level Agreement (SLA)",
+    "page_number": 18,
+    "source_file": "..\\data\\Tokoku_Customer_Service_Manual.pdf"
+  },
+  {
+    "topic": "Complaint Escalation Path",
+    "information": "If your issue is not resolved within the promised Service Level Agreement (SLA), use the following escalation path. The path consists of four levels: Level 1 involves contacting Customer Service (CS) via Live Chat or Phone. Level 2 requires requesting escalation to a CS Supervisor via the 'Escalate to Supervisor' option in your ticket. If the issue still remains unresolved, proceed to Level 3 by sending an email to eskalasi@tokoku.co.id with your previous ticket number. As a last resort, you can escalate the issue to Level 4 by filing an external complaint with the National Consumer Protection Agency (BPKN) for non-financial matters or the OJK for financial matters.",
+    "category": "Policy",
+    "tags": [
+      "Complaint",
+      "Escalation",
+      "Customer Service"
+    ],
+    "section": "10. Customer Service Channels & SLA",
+    "subsection": "10.3 Complaint Escalation Path",
+    "page_number": 18,
+    "source_file": "..\\data\\Tokoku_Customer_Service_Manual.pdf"
+  },
+  {
+    "topic": "Multiple Accounts",
+    "information": "No. Each user is only permitted one Tokoku account linked to a single mobile number and one national ID. Having more than one account may result in account suspension.",
+    "category": "FAQ",
+    "tags": [
+      "account",
+      "multiple",
+      "suspension"
+    ],
+    "section": "11. Frequently Asked Questions (FAQ)",
+    "subsection": "11.1 Account & Registration",
+    "page_number": 20,
+    "source_file": "..\\data\\Tokoku_Customer_Service_Manual.pdf"
+  },
+  {
+    "topic": "Password Reset",
+    "information": "Click Forgot Password on the login page. Enter your registered mobile number or email, and you will receive a reset link via SMS or email. The link is valid for 15 minutes.",
+    "category": "FAQ",
+    "tags": [
+      "password",
+      "reset",
+      "login"
+    ],
+    "section": "11. Frequently Asked Questions (FAQ)",
+    "subsection": "11.1 Account & Registration",
+    "page_number": 20,
+    "source_file": "..\\data\\Tokoku_Customer_Service_Manual.pdf"
+  },
+  {
+    "topic": "Account Sharing",
+    "information": "Accounts are personal and sharing is not recommended. If a family member wants to shop, we suggest they create their own account. Tokoku is not responsible for transactions made by third parties using your account.",
+    "category": "FAQ",
+    "tags": [
+      "account",
+      "sharing",
+      "responsibility"
+    ],
+    "section": "11. Frequently Asked Questions (FAQ)",
+    "subsection": "11.1 Account & Registration",
+    "page_number": 20,
+    "source_file": "..\\data\\Tokoku_Customer_Service_Manual.pdf"
+  },
+  {
+    "topic": "Account Deletion",
+    "information": "Go to Settings > Account > Delete Account. Deletion requires identity verification and the completion of all active transactions. Your Tokoku Pay balance must be withdrawn first. The permanent deletion process takes 30 days.",
+    "category": "FAQ",
+    "tags": [
+      "account",
+      "deletion",
+      "process"
+    ],
+    "section": "11. Frequently Asked Questions (FAQ)",
+    "subsection": "11.1 Account & Registration",
+    "page_number": 20,
+    "source_file": "..\\data\\Tokoku_Customer_Service_Manual.pdf"
+  },
+  {
+    "topic": "Order Cancellation Reasons",
+    "information": "Orders are automatically cancelled by the system when: (1) Payment is not completed within the time limit (Bank Transfer: 3 hours, Virtual Account: 24 hours, Convenience Store: 24 hours), or (2) The seller does not confirm the order within 1x24 hours.",
+    "category": "FAQ",
+    "tags": [
+      "order",
+      "cancellation",
+      "reasons"
+    ],
+    "section": "11. Frequently Asked Questions (FAQ)",
+    "subsection": "11.2 Purchases & Payments",
+    "page_number": 20,
+    "source_file": "..\\data\\Tokoku_Customer_Service_Manual.pdf"
+  },
+  {
+    "topic": "Delivery Address Change",
+    "information": "Address changes are only possible before the seller confirms the order. Once confirmed, contact Tokoku CS for further assistance.",
+    "category": "FAQ",
+    "tags": [
+      "delivery",
+      "address",
+      "change"
+    ],
+    "section": "11. Frequently Asked Questions (FAQ)",
+    "subsection": "11.2 Purchases & Payments",
+    "page_number": 20,
+    "source_file": "..\\data\\Tokoku_Customer_Service_Manual.pdf"
+  },
+  {
+    "topic": "Transaction Security",
+    "information": "Yes. Tokoku uses an escrow system where payment funds are held until the buyer confirms receipt of goods. All transactions are also encrypted using 256-bit SSL.",
+    "category": "FAQ",
+    "tags": [
+      "transaction",
+      "security",
+      "payment"
+    ],
+    "section": "11. Frequently Asked Questions (FAQ)",
+    "subsection": "11.2 Purchases & Payments",
+    "page_number": 20,
+    "source_file": "..\\data\\Tokoku_Customer_Service_Manual.pdf"
+  },
+  {
+    "topic": "0% Installment Usage",
+    "information": "At checkout, select Credit Card as your payment method and check the 0% Installment option. Choose the available tenor (3, 6, 12, or 24 months) based on your card issuer. The minimum transaction for installments is IDR 500,000.",
+    "category": "FAQ",
+    "tags": [
+      "installment",
+      "payment",
+      "method"
+    ],
+    "section": "11. Frequently Asked Questions (FAQ)",
+    "subsection": "11.2 Purchases & Payments",
+    "page_number": 20,
+    "source_file": "..\\data\\Tokoku_Customer_Service_Manual.pdf"
+  },
+  {
+    "topic": "Tokoku Pay Issues",
+    "information": "Possible reasons include: insufficient balance, unverified account (KTP required), daily limit reached, or account temporarily frozen. Contact CS for more details.",
+    "category": "FAQ",
+    "tags": [
+      "tokoku",
+      "pay",
+      "issues"
+    ],
+    "section": "11. Frequently Asked Questions (FAQ)",
+    "subsection": "11.2 Purchases & Payments",
+    "page_number": 20,
+    "source_file": "..\\data\\Tokoku_Customer_Service_Manual.pdf"
+  },
+  {
+    "topic": "Delivery Timeframe",
+    "information": "Estimated delivery times vary by courier and location. Same-day delivery is available in major cities, while shipping to remote areas may take up to 14 business days via Pos Indonesia.",
+    "category": "FAQ",
+    "tags": [
+      "shipping",
+      "delivery",
+      "timeframe"
+    ],
+    "section": "11. Frequently Asked Questions (FAQ)",
+    "subsection": "11.3 Shipping",
+    "page_number": 21,
+    "source_file": "..\\data\\Tokoku_Customer_Service_Manual.pdf"
+  },
+  {
+    "topic": "Package Not Moving",
+    "information": "If the delivery status has not changed for more than 3 business days, file a complaint via My Orders > File a Complaint > Package Not Moving. Tokoku will investigate with the courier.",
+    "category": "FAQ",
+    "tags": [
+      "package",
+      "delivery",
+      "complaint"
+    ],
+    "section": "11. Frequently Asked Questions (FAQ)",
+    "subsection": "11.3 Shipping",
+    "page_number": 21,
+    "source_file": "..\\data\\Tokoku_Customer_Service_Manual.pdf"
+  },
+  {
+    "topic": "Courier Change Policy",
+    "information": "No. The courier is selected at checkout and cannot be changed once the seller confirms the order. Make sure to choose the right courier before completing payment.",
+    "category": "FAQ",
+    "tags": [
+      "courier",
+      "change",
+      "policy"
+    ],
+    "section": "11. Frequently Asked Questions (FAQ)",
+    "subsection": "11.3 Shipping",
+    "page_number": 21,
+    "source_file": "..\\data\\Tokoku_Customer_Service_Manual.pdf"
+  },
+  {
+    "topic": "Damaged Package Procedure",
+    "information": "For COD, do not accept the package if the damage is severe. For other payment methods, accept the package, document the damage with photos/video, and file a complaint within 2x24 hours of receipt.",
+    "category": "FAQ",
+    "tags": [
+      "package",
+      "damage",
+      "procedure"
+    ],
+    "section": "11. Frequently Asked Questions (FAQ)",
+    "subsection": "11.3 Shipping",
+    "page_number": 21,
+    "source_file": "..\\data\\Tokoku_Customer_Service_Manual.pdf"
+  },
+  {
+    "topic": "Refund Process Time",
+    "information": "Refunds to Tokoku Pay are processed instantly to within 1x24 hours. Bank transfer refunds take 3–7 business days, and credit card refunds take 7–14 business days depending on the card issuer's policy.",
+    "category": "FAQ",
+    "tags": [
+      "refund",
+      "time",
+      "process"
+    ],
+    "section": "11. Frequently Asked Questions (FAQ)",
+    "subsection": "11.4 Returns & Refunds",
+    "page_number": 21,
+    "source_file": "..\\data\\Tokoku_Customer_Service_Manual.pdf"
+  },
+  {
+    "topic": "Item Description Dispute",
+    "information": "File an Item Does Not Match Description complaint within 7 days of confirming receipt. Attach comparison photos of the item received versus the seller's product listing. Tokoku will mediate the best resolution.",
+    "category": "FAQ",
+    "tags": [
+      "item",
+      "description",
+      "dispute"
+    ],
+    "section": "11. Frequently Asked Questions (FAQ)",
+    "subsection": "11.4 Returns & Refunds",
+    "page_number": 21,
+    "source_file": "..\\data\\Tokoku_Customer_Service_Manual.pdf"
+  },
+  {
+    "topic": "Seller Return Refusal",
+    "information": "If the seller rejects a valid return request, you can select Request Tokoku Assistance on the dispute page. Tokoku's mediation team will evaluate evidence from both parties and make a final decision within 3 business days.",
+    "category": "FAQ",
+    "tags": [
+      "seller",
+      "return",
+      "refusal"
+    ],
+    "section": "11. Frequently Asked Questions (FAQ)",
+    "subsection": "11.4 Returns & Refunds",
+    "page_number": 21,
+    "source_file": "..\\data\\Tokoku_Customer_Service_Manual.pdf"
+  },
+  {
+    "topic": "Return Shipping Cost",
+    "information": "If the fault lies with the seller (wrong item shipped, damaged, or not as described), the seller covers the return shipping cost. If the buyer changed their mind without a valid reason, the buyer covers the return shipping cost.",
+    "category": "FAQ",
+    "tags": [
+      "return",
+      "shipping",
+      "cost"
+    ],
+    "section": "11. Frequently Asked Questions (FAQ)",
+    "subsection": "11.4 Returns & Refunds",
+    "page_number": 21,
+    "source_file": "..\\data\\Tokoku_Customer_Service_Manual.pdf"
+  },
+  {
+    "topic": "Commission Deduction",
+    "information": "Tokoku's commission varies by product category: Electronics (1.5%), Fashion (3%), Beauty (3.5%), Food & Beverage (2%), General (2.5%). Star Sellers receive a 0.5% commission discount and Power Sellers receive a 1% discount.",
+    "category": "FAQ",
+    "tags": [
+      "commission",
+      "deduction",
+      "sellers"
+    ],
+    "section": "11. Frequently Asked Questions (FAQ)",
+    "subsection": "11.5 For Sellers",
+    "page_number": 22,
+    "source_file": "..\\data\\Tokoku_Customer_Service_Manual.pdf"
+  },
+  {
+    "topic": "Imported Products",
+    "information": "Yes, through the Tokoku Global Seller program. Imported products must carry the appropriate Indonesian regulatory approvals (BPOM for cosmetics/food, SNI for electronics). Sellers must clearly state the country of origin.",
+    "category": "FAQ",
+    "tags": [
+      "imported",
+      "products",
+      "sellers"
+    ],
+    "section": "11. Frequently Asked Questions (FAQ)",
+    "subsection": "11.5 For Sellers",
+    "page_number": 22,
+    "source_file": "..\\data\\Tokoku_Customer_Service_Manual.pdf"
+  },
+  {
+    "topic": "Unjustified Complaints",
+    "information": "Sellers can contest a complaint by providing relevant evidence (packaging photos, product photos before shipping, warehouse CCTV footage if available). Tokoku will evaluate evidence objectively from both parties.",
+    "category": "FAQ",
+    "tags": [
+      "complaints",
+      "sellers",
+      "evidence"
+    ],
+    "section": "11. Frequently Asked Questions (FAQ)",
+    "subsection": "11.5 For Sellers",
+    "page_number": 22,
+    "source_file": "..\\data\\Tokoku_Customer_Service_Manual.pdf"
+  },
+  {
+    "topic": "Flash Sale Registration",
+    "information": "Register your store at Seller Center > Campaigns & Promotions > Flash Sale. Requirements: Star Seller status, min. 10 units of stock per product, min. 20% discount. Registration opens every Monday for the following week's flash sale.",
+    "category": "FAQ",
+    "tags": [
+      "flash",
+      "sale",
+      "registration"
+    ],
+    "section": "11. Frequently Asked Questions (FAQ)",
+    "subsection": "11.5 For Sellers",
+    "page_number": 22,
+    "source_file": "..\\data\\Tokoku_Customer_Service_Manual.pdf"
+  },
+  {
+    "topic": "Prohibited Products on Tokoku",
+    "information": "Tokoku strictly prohibits the sale of certain products, including weapons and hazardous materials, controlled substances, pirated goods, forged documents, pornographic content, unlicensed cosmetics and food, unapproved electronics, protected animal parts, account hacking services, and academic fraud. Violations may result in permanent store suspension and referral to authorities. The prohibited products include illegal firearms, explosives, dangerous chemicals, and devices, as well as cosmetics and food without BPOM approval, electronics without SNI certification, and protected animal parts and species. Additionally, the sale of pornographic content, illegal adult devices, and illegal services such as review manipulation are also strictly prohibited.",
+    "category": "Policy",
+    "tags": [
+      "prohibited-products",
+      "tokoku-policies",
+      "store-suspension"
+    ],
+    "section": "12. Policies & Terms Summary",
+    "subsection": "12.1 Prohibited Products on Tokoku",
+    "page_number": 23,
+    "source_file": "..\\data\\Tokoku_Customer_Service_Manual.pdf"
+  },
+  {
+    "topic": "Platform Terms of Use",
+    "information": "To use the platform, users must be at least 17 years of age or have the consent of a parent or legal guardian. Additionally, users are prohibited from using bots, scrapers, or automated tools to access the platform. Tokoku reserves the right to suspend accounts found engaging in fraud, deception, or misuse of the platform. Furthermore, Tokoku is not liable for losses arising from force majeure events such as natural disasters or power outages. In the event of a legal dispute between a user and Tokoku, the matter shall be settled through the South Jakarta District Court.",
+    "category": "Policy",
+    "tags": [
+      "terms of use",
+      "platform rules",
+      "account suspension"
+    ],
+    "section": "12. Policies & Terms Summary",
+    "subsection": "12.2 Platform Terms of Use",
+    "page_number": 23,
+    "source_file": "..\\data\\Tokoku_Customer_Service_Manual.pdf"
+  },
+  {
+    "topic": "Privacy Policy Summary",
+    "information": "Tokoku collects user identity data, transaction data, location, and browsing activity to improve its services. User data is not sold to third parties without the user's explicit consent. Data is shared with logistics and payment partners only for the purpose of completing transactions. Users have the right to access, modify, and delete their personal data in accordance with Indonesia's Personal Data Protection Law (UU PDP). Additionally, Tokoku applies AES-256 encryption to all stored data.",
+    "category": "Policy",
+    "tags": [
+      "Privacy",
+      "Data Protection",
+      "Security"
+    ],
+    "section": "12. Policies & Terms Summary",
+    "subsection": "12.3 Privacy Policy – Summary",
+    "page_number": 23,
+    "source_file": "..\\data\\Tokoku_Customer_Service_Manual.pdf"
+  },
+  {
+    "topic": "Company Contact Information",
+    "information": "PT Tokoku Digital Indonesia is the company name with its legal domicile in South Jakarta, DKI Jakarta, Indonesia. The company holds a Business License No. (SIUP) 503/1234-SIUP/2018 and an OJK Registration No. S-1234/NB.111/2020 for Tokoku Pay. The customer service hotline is available at 1500-888 from 07:00–22:00 WIB, and customers can reach out via official email at cs@tokoku.co.id. The head office address is Tokoku Tower, Floor 20, Jl. Gatot Subroto No. 99, Semanggi, South Jakarta 12930. The official website is www.tokoku.co.id.",
+    "category": "Contact",
+    "tags": [
+      "contact",
+      "company",
+      "information"
+    ],
+    "section": "12. Policies & Terms Summary",
+    "subsection": "12.4 Company Contact & Information",
+    "page_number": 24,
+    "source_file": "..\\data\\Tokoku_Customer_Service_Manual.pdf"
+  }
+]

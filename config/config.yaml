@@ -1,0 +1,27 @@
+# MongoDB Configuration
+database:
+  name: "tokoku_db"
+  collections:
+    manual: "manual_chunks"
+    products: "products"
+  indexes:
+    manual: "manual_vector_index"
+    products: "product_vector_index"
+
+# Embeddings
+embedding:
+  ollama_url: "http://localhost:11434/api/embeddings"
+  model: "nomic-embed-text-v2-moe"
+  dimension: 768
+  max_chars: 1500
+
+# Agent
+agent:
+  model: "cerebras/qwen-3-235b-a22b-instruct-2507"
+
+# Streamlit App
+app:
+  title: "Tokoku Assistant"
+  icon: "🛒"
+  layout: "wide"
+  welcome_message: "Hi, I'm Tokoku's virtual assistant. How can I help you today?"
