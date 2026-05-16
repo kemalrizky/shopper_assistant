@@ -40,6 +40,10 @@ Open your browser and go to:
 
 ---
 
+## 🎬 Demonstration
+
+View the demo video here: [Tokoku Assistant Demonstration](https://drive.google.com/file/d/10q1anQvyYmMFS1oDWJF6wT444qSy8gA3/view?usp=sharing)
+
 ## 🛠️ Tech Stack
 - **Frontend**: Streamlit
 - **Agent Framework**: Google ADK (Agent Development Kit)
