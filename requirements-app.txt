@@ -1,0 +1,25 @@
+# =============================================================================
+# requirements-app.txt — Docker / Production dependencies only
+# =============================================================================
+# This file is used by the Dockerfile to build the container image.
+# For local development (including notebooks), use requirements.txt instead.
+# =============================================================================
+
+# LLM & Agent
+# google-adk[extensions] pulls in google-genai as a transitive dependency (used in app.py)
+google-adk[extensions]
+
+# Vector Database
+pymongo
+certifi            # TLS certificate for MongoDB Atlas connection (mongo.py)
+
+# Embeddings (Using the official Ollama Python library)
+ollama
+requests
+
+# Environment & Config
+python-dotenv
+pyyaml
+
+# Streamlit
+streamlit

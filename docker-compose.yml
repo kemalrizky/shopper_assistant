@@ -1,0 +1,87 @@
+# =============================================================================
+# Tokoku Assistant — Docker Compose
+# =============================================================================
+# Services:
+#   1. ollama       — Ollama runtime (embedding server)
+#   2. ollama-init  — One-shot init: pulls the embedding model on first boot
+#   3. app          — Streamlit frontend (the Tokoku Assistant)
+#
+# Usage:
+#   docker compose up --build        # first run (downloads model ~1.4 GB)
+#   docker compose up                # subsequent runs (model already cached)
+#   docker compose down              # stop all services
+#   docker compose down -v           # stop and delete model volume (fresh start)
+# =============================================================================
+
+services:
+
+  # ---------------------------------------------------------------------------
+  # 1. Ollama — local embedding server
+  # ---------------------------------------------------------------------------
+  ollama:
+    image: ollama/ollama:latest
+    container_name: tokoku-ollama
+    volumes:
+      # Named volume keeps the downloaded model between restarts
+      - ollama_data:/root/.ollama
+    ports:
+      - "11434:11434"
+    healthcheck:
+      test: ["CMD", "ollama", "list"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+      start_period: 20s
+    restart: unless-stopped
+
+  # ---------------------------------------------------------------------------
+  # 2. Ollama Init — pulls the embedding model once, then exits
+  # ---------------------------------------------------------------------------
+  ollama-init:
+    image: ollama/ollama:latest
+    container_name: tokoku-ollama-init
+    depends_on:
+      ollama:
+        condition: service_healthy
+    volumes:
+      - ollama_data:/root/.ollama
+    # Point to the ollama service by hostname, then pull the model
+    environment:
+      - OLLAMA_HOST=http://ollama:11434
+    # Pull the model and wait 5s to ensure it's fully registered in the volume
+    entrypoint: ["/bin/sh", "-c", "ollama pull nomic-embed-text-v2-moe && sleep 5"]
+    restart: "no"   # run once and exit
+
+  # ---------------------------------------------------------------------------
+  # 3. App — Tokoku Streamlit Assistant
+  # ---------------------------------------------------------------------------
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: tokoku-app
+    depends_on:
+      ollama-init:
+        condition: service_completed_successfully
+    ports:
+      - "8501:8501"
+    env_file:
+      - .env          # supplies MONGODB_URI, CEREBRAS_API_KEY, GROQ_API_KEY, etc.
+    environment:
+      # Override Ollama URL to reach the sidecar container by hostname
+      - OLLAMA_URL=http://ollama:11434
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8501/_stcore/health"]
+      interval: 15s
+      timeout: 5s
+      retries: 5
+      start_period: 30s
+    restart: unless-stopped
+
+# =============================================================================
+# Named Volumes
+# =============================================================================
+volumes:
+  ollama_data:
+    # Persists downloaded Ollama models across container restarts.
+    # Delete with: docker compose down -v

@@ -18,6 +18,8 @@ pandas
 # Environment & Config
 python-dotenv
 pyyaml
+requests
+certifi
 
 # Streamlit
 streamlit
