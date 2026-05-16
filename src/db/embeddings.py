@@ -1,17 +1,18 @@
-import requests
+import ollama
 from src.config import OLLAMA_URL, EMBEDDING_MODEL, MAX_EMBED_CHARS
 
+# Initialize the client with the configured host
+_client = ollama.Client(host=OLLAMA_URL)
+
 def embed_query(text: str) -> list[float]:
-    """Embed a query string using the configured Ollama embedding model."""
+    """Embed a query string using the official Ollama library."""
     if len(text) > MAX_EMBED_CHARS:
         text = text[:MAX_EMBED_CHARS]
 
-    response = requests.post(
-        OLLAMA_URL,
-        json={
-            "model": EMBEDDING_MODEL,
-            "prompt": text
-        }
+    response = _client.embed(
+        model=EMBEDDING_MODEL,
+        input=text
     )
-    response.raise_for_status()
-    return response.json()["embedding"]
+    
+    # The library returns a response object where .embeddings is a list of lists
+    return response.embeddings[0]

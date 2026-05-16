@@ -29,7 +29,9 @@ MANUAL_INDEX_NAME = _config["database"]["indexes"]["manual"]
 PRODUCTS_INDEX_NAME = _config["database"]["indexes"]["products"]
 
 # Ollama Configuration
-OLLAMA_URL = _config["embedding"]["ollama_url"]
+# Prefer OLLAMA_URL env var so Docker Compose can inject the sidecar hostname
+# without modifying config.yaml. Falls back to config.yaml for local runs.
+OLLAMA_URL = os.getenv("OLLAMA_URL") or _config["embedding"]["ollama_url"]
 EMBEDDING_MODEL = _config["embedding"]["model"]
 EMBEDDING_DIM = _config["embedding"]["dimension"]
 MAX_EMBED_CHARS = _config["embedding"]["max_chars"]

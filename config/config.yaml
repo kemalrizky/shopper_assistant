@@ -10,7 +10,7 @@ database:
 
 # Embeddings
 embedding:
-  ollama_url: "http://localhost:11434/api/embeddings"
+  ollama_url: "http://localhost:11434"
   model: "nomic-embed-text-v2-moe"
   dimension: 768
   max_chars: 1500
