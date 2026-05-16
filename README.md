@@ -38,8 +38,6 @@ docker compose up --build
 Open your browser and go to:
 👉 **[http://localhost:8501](http://localhost:8501)**
 
----
-
 ## 🎬 Demonstration
 
 View the demo video here: [Tokoku Assistant Demonstration](https://drive.google.com/file/d/10q1anQvyYmMFS1oDWJF6wT444qSy8gA3/view?usp=sharing)
@@ -57,8 +55,6 @@ View the demo video here: [Tokoku Assistant Demonstration](https://drive.google.
 - `config/`: YAML configuration for models and database indexes.
 - `Dockerfile` & `docker-compose.yml`: Containerization setup.
 - `requirements-app.txt`: Optimized dependencies for the production container.
-
----
 
 ## 🛑 Troubleshooting
 - **Model Not Found**: If you see a "model not found" error, it means the `ollama-init` service is still pulling the model. Check your terminal logs for progress.
